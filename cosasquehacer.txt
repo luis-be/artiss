@@ -1,2 +1,6 @@
-Instalar nativewind (seguir de la pagina)
-Instalar react navigation
+
+*Instalar nativewind (seguir de la pagina)
+
+*Instalar react navigation
+    -
+    -npx expo install react-native-screens react-native-safe-area-context
