@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View className="flex-1 items-center justify-center">
       <Text className="text-#red text-bg font-bold mt-2">Mariela te amo mucho</Text>
-      <Button title="Click me"></Button>
+      <Button title="Ck licme"></Button>
       
     </View>
   ); 
