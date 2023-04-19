@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077360377541",
+    "project_id": "artisproject-384218",
+    "storage_bucket": "artisproject-384218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077360377541:android:65c6782f2f9dfa01cffaac",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077360377541-rastak0a46or1suehr481d64gftbcl2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ208yXbKtCE4SQ4E53VIan8CsPiSpZHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077360377541-rastak0a46or1suehr481d64gftbcl2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
